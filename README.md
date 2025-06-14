@@ -3,7 +3,8 @@
 
 This repository contains a Power BI report named **Eye_Cancer_report**, which explores and visualizes patterns in **eye cancer patient data** across demographics, geography, genetics, and treatment outcomes.
 
-![Dashboard Preview](f12ee1e4-264d-4a9f-9841-3c12e63868b7.png)
+![Dashboard Preview]![image](https://github.com/user-attachments/assets/fe98f4f9-a9c2-4bd3-99e3-6f622822769d)
+
 
 ---
 
